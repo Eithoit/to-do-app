@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@layer base {
+  /* Add your base styles here */
+  :root {
+    --body-bg: #00334D;
+    --header-bg: #0077B3;
+    --primary-color: #000000;
+    --secondary-color: #FFFFFF;
+
+    --card-bg:#B3E5FF;
+    --card-border: #E0F2FF;
+    --card-shadow: rgba(0, 0, 0, 0.1);
+    --card-hover-shadow: rgba(0, 0, 0, 0.2);
+  }
+}
